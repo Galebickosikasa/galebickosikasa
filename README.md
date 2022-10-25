@@ -8,6 +8,11 @@ My name is Gleb, I am 19 years old. I have competitive programming experience in
 - 🎲 I have experience writing microservices in C++ and Python using userver and backend-py3 frameworks
 - 🍣 I am a team worker, creative and quick learner
 
+<div align="center">
+  <img src="https://github.com/Galebickosikasa/galebickosikasa/blob/main/source1.gif" width="325" height="300">
+  <img src="https://github.com/Galebickosikasa/galebickosikasa/blob/main/source2.gif" width="400" height="300">
+</div>
+
 <!--
 **Galebickosikasa/galebickosikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
